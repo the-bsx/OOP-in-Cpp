@@ -1,0 +1,12 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.out
+
+# VS Code
+.vscode/
+
+# Build directories
+build/
+bin/
