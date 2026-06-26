@@ -9,7 +9,7 @@
 // An output stream is a stream that allows data to flow out of a program to a destination
 // — for example, displaying data on the screen using cout.
 
- // important to knwo
+ // important to know
 //  << is insertion operator
 //  >> is extraction operator
 // example
