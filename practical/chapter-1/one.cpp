@@ -1,5 +1,5 @@
 // C++ Program Structure, Character Set, and Tokens
-//  Write a C++ program to display the message &quot;Welcome to BSc CSIT Programming!&quot;
+//  Write a C++ program to display the message "Welcome to BSc CSIT Programming"
 // demonstrating correct program structure, the use of identifiers, keywords, constants, and
 // punctuators.
 

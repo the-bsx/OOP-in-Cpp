@@ -28,7 +28,7 @@ int main() {
     cout << "Integer value: "<< intValue<< endl;
     cout << "Float value: " << floatValue << endl;
     cout << "Character value: " << charValue << endl;
-
+ 
     // display sizes
     cout << "size of int: "<< sizeof(intValue) << endl;
     cout << "size of float: " << sizeof(floatValue) <<endl;

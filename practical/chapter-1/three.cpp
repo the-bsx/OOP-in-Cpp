@@ -8,7 +8,7 @@
 
 using namespace std;
 
-//o define the value of PI
+// define the value of PI
 #define PI 3.14
 
 int main() {

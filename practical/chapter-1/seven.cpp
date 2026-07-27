@@ -21,7 +21,7 @@ int main() {
         cin >> arr[i];
     }
 
-    //outpur
+    //output
     for(int i = 0; i < N; i++) {
         cout << arr[i] << " ";
     }
