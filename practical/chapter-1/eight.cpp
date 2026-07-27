@@ -9,21 +9,21 @@ using namespace std;
 
 // check the number if positive, negative or zero
 
-// int main() {
-//     int num;
-//     cout << "Enter the number";
-//     cin >> num;
+int main() {
+    int num;
+    cout << "Enter the number";
+    cin >> num;
 
-//     if(num < 0) {
-//         cout<< "Negative";
-//     } else if( num > 0) {
-//         cout << "Positive";
-//     } else {
-//         cout << "Zero";
-//     }
+    if(num < 0) {
+        cout<< "Negative";
+    } else if( num > 0) {
+        cout << "Positive";
+    } else {
+        cout << "Zero";
+    }
 
-//     return 0;
-// }
+    return 0;
+}
 
 
 
