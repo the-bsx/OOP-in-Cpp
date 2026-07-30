@@ -29,6 +29,7 @@ int main()
     case 1:
         result = num_one + num_two;
         cout << "Result: " << result;
+        break;
 
     case 2:
         result = num_one - num_two;
