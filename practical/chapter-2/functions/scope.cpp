@@ -11,7 +11,7 @@ int global_value = 100;
     int num = 10; // but default it is auto int num = 10
     num++ ;
 
-    cout <<"Auto value: " << num << endl;;
+    cout <<"Auto value: " << num << endl;
  }
 
  int staticfn() {

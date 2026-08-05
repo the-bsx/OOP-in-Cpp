@@ -12,7 +12,7 @@ int main() {
     cin >> n;
 
     int arr[n];
-    int *ptr = arr;
+    int *ptr = arr; // or &arr[0]
 
     // input
     cout <<"Enter the integer values\n"; 
