@@ -1,4 +1,4 @@
-// Dynamic memory allocation is the process of allocating memory to a variable at 
+// Dynamic memory allocation is the process of allocating memory to a variable at runtime 
 // (while the program is executing), rather than at compile time.
 
 // The new operator

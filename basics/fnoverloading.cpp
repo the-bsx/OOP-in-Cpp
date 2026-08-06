@@ -1,6 +1,6 @@
 // function overloading means two or more function can have the same name 
 // condtions :----------
-// 1. Number of parameters should be  OR
+// 1. Number of parameters should be different  OR
 // 2. Datatype of parameters should be different
 
 // ---------------example-----------------
