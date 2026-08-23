@@ -4,12 +4,7 @@
 //  Overloads the post-increment operator (obj++) using a member function to increase the count.
 //  Clearly differentiate and display the behavior of pre-increment and post-increment.
 
-// 1. Overloading Pre-Increment Operator (Unary)
-// Write a C++ program to create a class Counter that:
-//  Stores a count value.
-//  Overloads the pre-increment operator (++obj) using a member function to increase the count
-// by 1.
-// Display the count before and after incrementing.
+
 
 
 #include<iostream>

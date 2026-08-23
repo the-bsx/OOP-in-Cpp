@@ -41,6 +41,7 @@ int main() {
     cout <<"Using function overloading: "<<endl;
     swapOverload( a, b);
     cout <<"Integer swap: "<< a << " "<< b<< endl;
+    swapOverload(c, d);
     cout <<"Float swap: "<< c << "  "<< d<<endl;
 
     return 0;
