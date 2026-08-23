@@ -37,7 +37,7 @@ int main() {
 
     cout <<"Pointer to dog..."<<endl;
     animalPtr = &dog;
-        animalPtr->display();
+    animalPtr->display();
     cout <<"Pointer to cat..."<<endl;
     animalPtr = &cat;
     animalPtr->display();
